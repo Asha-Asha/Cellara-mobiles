@@ -1,0 +1,71 @@
+.loginForm {
+    display: flex;
+    flex-direction: column;
+   margin-right: 300px;
+  }
+  
+  .forgotPasswordContainer {
+    display: flex;
+    align-items: flex-end; /* Adjust alignment as needed */
+    margin-top: 10px;
+  }
+  
+  .forgotPasswordText {
+    font-size: 25px;
+    color:Blue;
+    cursor: pointer;
+    margin-left:40px;
+    margin-bottom:40px;
+     /* Adjust margin as needed */
+  }
+  .link p{
+    color:rgb(14, 14, 17);
+    margin-Left:44px;
+    font-size: 30px;
+  }
+  
+  
+  .login {
+    height: calc(100vh - 10px);
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  color:black;
+    justify-content: center;
+    
+    background:
+      url("https://media.istockphoto.com/id/1264846810/photo/close-up-man-hand-holding-smartphone-to-access-on-banking-application-to-checking-about.jpg?s=612x612&w=0&k=20&c=eroOShsWkKxarrv-_2gpz6agYVfvKt4fnzGfVESlfQ4=");
+    background-size: cover;
+  }
+  
+  
+  
+  
+  .link p{
+    font-size: 20px;
+  }
+  .loginInput {
+    width: 200%;
+    height:60px;
+    padding: 10px; /* Increase the padding for more height */
+    border-radius: 26px;
+    border: 1px solid #ccc;
+  }
+  .loginButton {
+    width: 200%;
+    height:60px;
+    padding: 10px; /* Increase the padding for more height */
+    border-radius: 26px;
+    border: 1px solid #ccc;
+  }
+  .forgotPasswordForm{
+    margin-left:100px;
+    margin-bottom:20px;
+    width: 450px;
+   
+  }
+  .forgotPasswordForm input{
+    height:60px;
+    
+  }

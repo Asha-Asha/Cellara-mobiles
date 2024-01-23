@@ -1,0 +1,15 @@
+/* About.css */
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust as needed for vertical centering */
+    margin: 0;
+  }
+  
+  .about-container {
+    max-width: 600px; /* Adjust the maximum width as needed */
+    text-align: center; /* Center text within the container */
+  }
+  
